@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易象意言
-#+DATE: 2015-09-23 09:34:38
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:55:36.299871
+#+PROPERTY: ID KR1a0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 易象意言
 <pb:KR1a0053_WYG_001-1a>¶
 欽定四庫全書¶
 　易象意言¶
@@ -524,4 +526,3 @@
 　¶
 　¶
 　易象意言¶
-
